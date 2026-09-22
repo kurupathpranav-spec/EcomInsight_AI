@@ -7,6 +7,11 @@
 
 ---
 
+## 📊 Dashboard Overview
+
+<img width="1907" height="867" alt="image" src="https://github.com/user-attachments/assets/2c896d52-4516-4e20-9a55-de9802d70a1b" />
+
+
 ## 📂 Dataset
 
 | File | Description |
