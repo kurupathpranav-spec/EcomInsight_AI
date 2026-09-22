@@ -25,8 +25,7 @@ Both files are joined on **Order ID** to produce the unified analytical dataset.
 
 ### 1 · Clone / download the project
 ```bash
-git clone <repo-url>
-cd EcomInsight_AI
+git clone https://github.com/kurupathpranav-spec/EcomInsight_AI.git
 ```
 
 ### 2 · Install dependencies
