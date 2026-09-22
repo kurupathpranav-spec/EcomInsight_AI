@@ -49,13 +49,22 @@ The app opens automatically at `http://localhost:8501`.
 
 ```
 EcomInsight_AI/
-├── PranavKurupath_EcomInsightAI.py               ← Main Streamlit application
-├── requirements.txt                               ← Python dependencies
-├── README.md                                      ← This file
-├── PranavKurupath_EcomInsightAI_ProjectReport.docx ← Project report
-└── dataset/
-    ├── Orders.csv                                 ← Dataset (orders/customers)
-    └── Details.csv                                ← Dataset (transactions/products)
+├── .streamlit/
+│   └── config.toml
+├── dataset/
+│   ├── Orders.csv
+│   └── Details.csv
+├── PranavKurupath_EcomInsightAI.py
+├── PranavKurupath_EcomInsightAI_ProjectReport.docx
+├── README.md
+└── requirements.txt
+
+- `.streamlit/config.toml` – Streamlit theme and application configuration
+- `dataset/` – Contains the Orders and Details CSV files
+- `PranavKurupath_EcomInsightAI.py` – Main Streamlit application
+- `requirements.txt` – Python dependencies
+- `README.md` – Project documentation
+- `PranavKurupath_EcomInsightAI_ProjectReport.docx` – Detailed project report
 ```
 
 ---
