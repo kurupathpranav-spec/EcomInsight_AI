@@ -11,6 +11,12 @@
 
 <img width="1907" height="867" alt="image" src="https://github.com/user-attachments/assets/2c896d52-4516-4e20-9a55-de9802d70a1b" />
 
+## 📸 Complete Project Workflow
+
+Explore the complete visual walkthrough of EcomInsight AI, including Sales Trends, Category Analysis, Geographical Analysis, Payment Analysis, Sales Forecasting, AI Business Analyst, and Business Recommendations.
+
+👉 **[View Complete Project Workflow](docs/workflow.md)**
+
 
 ## 📂 Dataset
 
