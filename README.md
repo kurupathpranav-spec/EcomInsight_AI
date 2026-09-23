@@ -15,7 +15,7 @@
 
 Explore the complete visual walkthrough of EcomInsight AI, including Sales Trends, Category Analysis, Geographical Analysis, Payment Analysis, Sales Forecasting, AI Business Analyst, and Business Recommendations.
 
-👉 **[View Complete Project Workflow](docs/workflow.md)**
+👉 **[View Complete Project Workflow](docs/Workflow.md)**
 
 
 ## 📂 Dataset
